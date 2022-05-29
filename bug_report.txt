@@ -1,0 +1,8 @@
+       Summary: the ability to log in to the user with the year of birth 2006
+       Pre-conditions: website is open
+       STR: 1.go to website, 2.in the specify your of birth field,specify 2006,3.click ok
+       ER: the inability to log in
+       AR: the ability to log in
+       Severity: Critical
+       Priority: Hight
+       Environment: Windows10
