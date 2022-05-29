@@ -1,2 +1,3 @@
 Basicheory: tecting,SDLC,STLC
-        CSA: true
+CSA: true
+HTTPMethods: true
